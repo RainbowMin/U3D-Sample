@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script_03_18.cs">
+    <Files>
+      <File FileName="Assets\Rotate.cs" Line="19" Column="1" />
+      <File FileName="Assets\Translate.cs" Line="14" Column="17" />
+      <File FileName="Assets\Script_02_01.cs" Line="22" Column="35" />
+      <File FileName="Assets\Script_03_01.cs" Line="31" Column="42" />
+      <File FileName="Assets\Script_03_02.cs" Line="47" Column="16" />
+      <File FileName="Assets\Script_03_18.cs" Line="44" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
