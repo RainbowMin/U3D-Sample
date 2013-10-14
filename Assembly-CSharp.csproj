@@ -50,6 +50,8 @@
      <Compile Include="Assets\Script\Script_03_02.cs" />
      <Compile Include="Assets\Script\Script_03_18.cs" />
      <Compile Include="Assets\Script\Script_03_19.cs" />
+     <Compile Include="Assets\Script\Script_03_20.cs" />
+     <Compile Include="Assets\Script\Script_03_21.cs" />
      <Compile Include="Assets\Script\Translate.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

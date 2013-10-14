@@ -6,7 +6,7 @@ public class Script_03_19 : MonoBehaviour
 	Object[] animList;
 	int CurFrame;
 	int TotalFrameCount;
-	float FPS = 15;
+	float FPS = 5;
 	float time = 0;
 
 	//支持中文
